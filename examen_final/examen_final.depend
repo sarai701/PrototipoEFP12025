@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1748449016 source:c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\src\bitacora.cpp
+	"Bitacora.h"
+
+1748449015 c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\include\bitacora.h
+	<string>
+	<fstream>
+	<ctime>
+	<cstring>
+	<iomanip>
+	<iostream>
+
+1748449849 source:c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\src\usuario.cpp
+	"Usuario.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+	"Bitacora.h"
+
+1748449015 c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\include\usuario.h
+	<string>
+
+1748449016 source:c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\main.cpp
+	<iostream>
+	"Usuario.h"
+	"Catalogo.h"
+	"Bitacora.h"
+
+1748449613 c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\include\catalogo.h
+	<string>
+	<vector>
+	"Bitacora.h"
+
+1748449638 source:c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\src\catalogo.cpp
+	"Catalogo.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+	"Bitacora.h"
+
