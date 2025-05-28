@@ -10,7 +10,7 @@
 	<iomanip>
 	<iostream>
 
-1748449849 source:c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\src\usuario.cpp
+1748450318 source:c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\src\usuario.cpp
 	"Usuario.h"
 	<iostream>
 	<fstream>
@@ -28,12 +28,12 @@
 	"Catalogo.h"
 	"Bitacora.h"
 
-1748449613 c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\include\catalogo.h
+1748450318 c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\include\catalogo.h
 	<string>
 	<vector>
 	"Bitacora.h"
 
-1748449638 source:c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\src\catalogo.cpp
+1748450318 source:c:\users\prisc\onedrive\documentos\programacion1\programacion1-tareas\examenfinal\prototipoefp12025\examen_final\src\catalogo.cpp
 	"Catalogo.h"
 	<iostream>
 	<fstream>
